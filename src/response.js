@@ -1,3 +1,4 @@
+'use strict';
 
 const response = {
     json: (res, data, statusCode = 200) => {

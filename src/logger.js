@@ -1,3 +1,4 @@
+'use strict';
 
 const timestamp = () => (new Date()).toISOString();
 
