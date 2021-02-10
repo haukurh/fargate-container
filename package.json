@@ -1,0 +1,23 @@
+{
+  "name": "fargate-container",
+  "version": "1.0.0",
+  "description": "Dummy repo to be containerized within AWS Fargate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haukurh/fargate-container.git"
+  },
+  "keywords": [
+    "aws",
+    "fargate"
+  ],
+  "author": "Haukur Hlöðversson <haukur@haukurh.is>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haukurh/fargate-container/issues"
+  },
+  "homepage": "https://github.com/haukurh/fargate-container#readme"
+}
