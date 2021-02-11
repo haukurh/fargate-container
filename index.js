@@ -5,7 +5,7 @@ const routes = require('./src/router');
 const response = require('./src/response');
 
 const hostname = '0.0.0.0';
-const port = 80;
+const port = 3000;
 
 routes.get('/', (req, res) => {
   return response.text(res, 'Hi!');
